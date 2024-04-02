@@ -15,9 +15,9 @@
 ![C#](https://img.shields.io/badge/C%23-7289DA?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 👨‍💻 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oAmorim2k5&theme=transparent&bg_color=F47D29&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oAmorim2k5&theme=transparent&bg_color=&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)
 
 ## 🔍 My contributions
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oAmorim2k5&repo=dio-lab-open-source&bg_color=F47D29&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/oAmorim2k5/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oAmorim2k5&repo=dio-lab-open-source&bg_color=7289DA&border_color=fff&show_icons=true&icon_color=ffdd54&title_color=fff&text_color=fff)](https://github.com/oAmorim2k5/dio-lab-open-source)
 
 
