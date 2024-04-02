@@ -30,8 +30,6 @@
 ## 👨‍💻 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oAmorim2k5&theme=transparent&bg_color=F47D29&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oAmorim2k5&layout=compact&bg_color=F47D29&border_color=fff&title_color=fff&text_color=fff)
-
 ## 🔍 My contributions
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=oAmorim2k5&repo=dio-lab-open-source&bg_color=F47D29&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/oAmorim2k5/dio-lab-open-source)
 
